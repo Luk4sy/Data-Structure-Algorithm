@@ -1,3 +1,5 @@
+package lukasy.complexity_01;
+
 public class TimeTool {
     public interface Task {
         void execute();

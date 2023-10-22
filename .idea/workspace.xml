@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6b422728-c73f-4f16-a945-b75bd94e541a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/season1/01-复杂度/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/season1/01-复杂度/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/season1/01-复杂度/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/season1/src/lukasy/complexity01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/season1/01-复杂度/TimeTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/season1/src/lukasy/complexity01/TimeTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/season1/season1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/season1/season1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +35,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "11",
+    "jdk.selected.JAVA_MODULE": "17",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel",
@@ -43,15 +45,15 @@
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lukasy.complexity_01.Main" />
       <module name="season1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="lukasy.complexity_01.Main" />
       <module name="season1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697977331782</updated>
-      <workItem from="1697977333476" duration="3222000" />
+      <workItem from="1697977333476" duration="3958000" />
     </task>
     <servers />
   </component>

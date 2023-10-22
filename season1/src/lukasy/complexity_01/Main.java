@@ -1,4 +1,4 @@
-import java.sql.Time;
+package lukasy.complexity_01;
 
 public class Main {
 
